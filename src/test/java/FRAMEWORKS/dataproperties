@@ -1,0 +1,12 @@
+#Login test data
+
+invalidpassword=1234569
+
+#register test data
+firstname=pavan
+lastname=valleti
+telephonenumber=9030580226
+
+#search data test
+validproduct=hp
+invalidproduct=mango
